@@ -68,7 +68,7 @@ function hotelCost(howManyDays){
 var result = hotelCost(22);
 console.log(result);
 
-/*Problem Number 3 */
+/*Problem Number 4 */
 function megaFriend(arr){
    var i ;
    var maxChar = -1;//it stores the max character count in a string
